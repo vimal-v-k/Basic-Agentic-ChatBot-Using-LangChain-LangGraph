@@ -1,1 +1,1 @@
-### End to End Agentic AI ChatBot Project Using LangChain and LangGraph
+### End to End AI ChatBot Project Using LangChain and LangGraph
